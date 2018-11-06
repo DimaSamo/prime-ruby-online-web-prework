@@ -14,5 +14,4 @@ def prime?(n)
     end
     i+=6
   end
-  
 end
